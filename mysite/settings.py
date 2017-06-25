@@ -25,7 +25,8 @@ SECRET_KEY = '@fv4gxju&+xo*a5m(7#s74*b%u8&^3e41y_y^0at9r#m-ku0j2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['kingates.pythonanywhere.com']
+
 
 
 # Application definition
